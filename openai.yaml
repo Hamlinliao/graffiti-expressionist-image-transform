@@ -1,0 +1,4 @@
+interface:
+  display_name: "涂鸦表现主义图像抽象"
+  short_description: "Turn images into vivid graffiti-expressionist abstractions"
+  default_prompt: "Use $graffiti-expressionist-image-transform to turn this image into a vivid graffiti-expressionist abstraction."
